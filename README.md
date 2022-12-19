@@ -1,4 +1,4 @@
-clburlison profiles
+Profiles from Other Pros
 ===
 
 [![Build Status](https://travis-ci.org/clburlison/profiles.svg?branch=master)](https://travis-ci.org/clburlison/profiles)
